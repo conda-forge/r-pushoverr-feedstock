@@ -1,11 +1,11 @@
-About r-pushoverr
-=================
+About r-pushoverr-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pushoverr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://briandconnelly.github.io/pushoverr/, https://github.com/briandconnelly/pushoverr
 
 Package license: BSD-2-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-pushoverr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Send push notifications to mobile devices or the desktop using 'Pushover' <https://pushover.net>. These notifications can display things such as results, job status, plots, or any other text or numeric data.
 
